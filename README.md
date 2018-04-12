@@ -4,5 +4,5 @@ Some sourcepawn snippets i coded, most of them are coded for alliedmodders reque
 
 ## License
 
-This snippets is licensed under the GNU General Public License v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
+This snippets are licensed under the GNU General Public License v3.0 License - see the [LICENSE.md](LICENSE.md) file for details
 
